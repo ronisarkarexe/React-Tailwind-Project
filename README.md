@@ -1,7 +1,6 @@
 # Description 📓
 
-This project using create-react-app. We intergret tailwind with postCss.
-In other to use it run command below ↓.
+Live side: https://flamboyant-ride-6ba6d4.netlify.app/
 
 # Run 🚀
 
